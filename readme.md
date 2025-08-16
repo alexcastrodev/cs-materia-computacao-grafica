@@ -1,0 +1,54 @@
+# Computação Gráfica
+
+Exercícios das 4 apostilas da universidade
+
+# Build
+
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
+# Exercício 1 – Translação
+
+## Descrição
+
+Mova um quadrado pela tela usando uma matriz de translação.
+
+## Resultado
+
+Status: incompleto
+build: `cmake build .`
+
+
+# Exercício 2 – Escala
+
+## Descrição
+
+Aumente e diminua o tamanho de um círculo.
+
+# Exercício 3 – Rotação
+
+## Descrição
+
+Rotacione um triângulo em torno do centro
+
+# Exercício 4 – Rotação em torno de um ponto arbitrário
+
+## Descrição
+
+Na apostila mostra rotação em torno de A(1,1).
+
+Simule:
+
+- Transladar o objeto para a origem.
+- Rotacionar.
+- Transladar de volta.
+
+# Dependencias
+
+- SFML (https://www.sfml-dev.org/tutorials/3.0/getting-started/macos/)
+
+
