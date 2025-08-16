@@ -20,8 +20,6 @@ Mova um quadrado pela tela usando uma matriz de translação.
 ## Resultado
 
 Status: incompleto
-build: `cmake build .`
-
 
 # Exercício 2 – Escala
 
@@ -29,11 +27,19 @@ build: `cmake build .`
 
 Aumente e diminua o tamanho de um círculo.
 
+## Resultado
+
+Status: incompleto
+
 # Exercício 3 – Rotação
 
 ## Descrição
 
 Rotacione um triângulo em torno do centro
+
+## Resultado
+
+Status: incompleto
 
 # Exercício 4 – Rotação em torno de um ponto arbitrário
 
@@ -46,6 +52,10 @@ Simule:
 - Transladar o objeto para a origem.
 - Rotacionar.
 - Transladar de volta.
+
+## Resultado
+
+Status: incompleto
 
 # Dependencias
 
