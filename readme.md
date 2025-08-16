@@ -19,7 +19,9 @@ Mova um quadrado pela tela usando uma matriz de translação.
 
 ## Resultado
 
-Status: incompleto
+Status: Completo
+
+![Translação](.github/translacao.png)
 
 # Exercício 2 – Escala
 
