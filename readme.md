@@ -64,3 +64,19 @@ Status: incompleto
 - SFML (https://www.sfml-dev.org/tutorials/3.0/getting-started/macos/)
 
 
+# Exercício 5 – Modelagem 3D
+
+Status: Completo
+
+## Descrição
+
+É bem provável que você já tenha experimentado algum software de Modelagem Tri-dimensional, como Blender, Maya ou Cinema4D, por exemplo, ou, talvez, algum ainda mais simples, como o SketchUp.
+
+Esses sistemas foram criados para possibilitar a geração de imagens tridimensionais, para simplificar o trabalho de construir um arquivo pensando na coordenada espacial de cada um dos vértices do objeto.
+
+Na prática, o que eles fazem é criar uma interação visual com o usuário, mas, por trás, realizam todos os cálculos geométricos necessários.
+
+![modelagem](.github/modelagem.png)
+
+## Resultado
+
